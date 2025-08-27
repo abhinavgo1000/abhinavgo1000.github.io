@@ -47,8 +47,3 @@ An AI chatbot version of my professional profile hosted on Hugging Face Spaces
 ---
 
 ⭐️ From [Abhinav Goel](https://github.com/abhinavgo1000)
-
-
-<!---
-abhinavgo1000/abhinavgo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.

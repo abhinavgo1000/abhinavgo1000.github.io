@@ -34,6 +34,11 @@ Interactive React portal with API-driven tables, Material UI dialogs, and Chart.
 
 ---
 
+### [🤖 AI Chatbot of my Professional Profile](https://huggingface.co/spaces/abhinavgl/career_conversation)
+An AI chatbot version of my professional profile hosted on Hugging Face Spaces
+
+---
+
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](https://abhinavgo1000.github.io)  
 - 💼 [LinkedIn](https://linkedin.com/in/abhinav-goel-41a87a20b)  

@@ -8,7 +8,7 @@ I love working with **Angular, React, Node.js, and Python** — and I often expl
 ## 🔧 Tech Stack
 - **Frontend:** Angular (NgRx, PrimeNG), React (Redux, React Query, MUI)
 - **Backend:** Node.js, Express, Java (basic), Python (APIs, data science)
-- **Databases:** PostgreSQL, MongoDB, Firebase
+- **Databases:** PostgreSQL, MongoDB, MySQL
 - **Other:** Docker, GitHub Actions, Jupyter, AI/ML fine-tuning, Swift
 
 ---

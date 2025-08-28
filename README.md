@@ -41,7 +41,7 @@ An AI chatbot version of my professional profile hosted on Hugging Face Spaces
 ---
 
 ## 💼 Professional Experience
-- I have more than **8 years** of professional experience, which **7 years** were in the United States.
+- I have more than **8 years** of professional experience, of which **7 years** were in the United States.
 - My experience includes companies like:
   - **Qualcomm:** Created a data monitoring portal for lab equipment and an issue logging form.
   - **Huntington Bank:** Worked on refactoring the internal account management system to a new Angular based UI.

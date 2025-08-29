@@ -1,0 +1,8 @@
+# Site settings
+title: Hi, I’m Abhinav
+description: Github portfolio for Abhinav Goel
+baseurl: "/"
+url: "https://abhinavgo1000.github.io"
+
+# Theme settings
+theme: jekyll-theme-minimal

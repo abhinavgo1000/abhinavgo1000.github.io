@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhinav
 
 🚀 Full-stack developer passionate about building **data-driven UIs**, **scalable services**, and experimenting with **AI/ML**.  
-I love working with **Angular, React, Node.js, and Python** — and I often explore creative side projects mixing code, music, and design.
+I love working with **Angular, React, Node.js, and Python** - and I often explore creative side projects mixing code, music, and design.
 
 ---
 

@@ -8,4 +8,4 @@ lang: en
 timezone: Asia/Kolkata
 
 # Theme settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-time-machine

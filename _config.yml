@@ -5,4 +5,4 @@ baseurl: "/"
 url: "https://abhinavgo1000.github.io"
 
 # Theme settings
-theme: jekyll-theme-forty
+theme: jekyll-theme-minimal

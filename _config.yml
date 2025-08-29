@@ -1,8 +1,11 @@
 # Site settings
 title: Abhinav Goel
+tagline: Full-stack dev 
 description: Portfolio page for Abhinav Goel
 baseurl: "/"
 url: "https://abhinavgo1000.github.io"
+lang: en
+timezone: Asia/Kolkata
 
 # Theme settings
 theme: jekyll-theme-minimal

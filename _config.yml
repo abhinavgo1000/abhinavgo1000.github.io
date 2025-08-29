@@ -8,4 +8,4 @@ lang: en
 timezone: Asia/Kolkata
 
 # Theme settings
-theme: jekyll-theme-primer
+theme: jekyll-theme-leap-day

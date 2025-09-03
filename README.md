@@ -14,27 +14,27 @@ I love working with **Angular, React, Node.js, and Python** - and I often explor
 ---
 
 ## 📌 Pinned Projects
-### [🌍 Airline Ticketing Agent (LLM Fine-Tuning)](https://github.com/abhinavgo1000/airline-ticket-portal)
+### [🌍 Airline Ticketing Agent (LLM Fine-Tuning)](https://github.com/abhinavgo1000/airline-ticket-portal){:target="_blank"}
 A portal made usung Next.js as frontend for a POC Airline Ticketing Agent. Currently working on a custom dataset of 2000+ examples fine-tuned on an open-source LLM to act as a conversational airline ticketing assistant.  
 - Built dataset & training model  
 
 ---
 
-### [📊 Angular Data Entry Portal](https://github.com/abhinavgo1000/data-entry-portal-angular)
+### [📊 Angular Data Entry Portal](https://github.com/abhinavgo1000/data-entry-portal-angular){:target="_blank"}
 Interactive Angular portal with API-driven tables, Angular Material dialogs, and Chart.js visualizations.  
 - Dynamic filters with NgRx store  
 - Clickable rows open live charts  
 
 ---
 
-### [📊 React Data Entry Portal](https://github.com/abhinavgo1000/data-entry-portal-react)
+### [📊 React Data Entry Portal](https://github.com/abhinavgo1000/data-entry-portal-react){:target="_blank"}
 Interactive React portal with API-driven tables, Material UI dialogs, and Chart.js visualizations.  
 - Dynamic filters with Redux store  
 - Clickable rows open live charts  
 
 ---
 
-### [🤖 AI Chatbot of my Professional Profile](https://huggingface.co/spaces/abhinavgl/career_conversation)
+### [🤖 AI Chatbot of my Professional Profile](https://huggingface.co/spaces/abhinavgl/career_conversation){:target="_blank"}
 An AI chatbot version of my professional profile hosted on Hugging Face Spaces
 - Uses gpt-4o-mini as the underlying LLM
 
@@ -52,8 +52,8 @@ An AI chatbot version of my professional profile hosted on Hugging Face Spaces
 
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](https://abhinavgo1000.github.io)  
-- 💼 [LinkedIn](https://linkedin.com/in/abhinav-goel-41a87a20b)
-- 🤗 [Hugging Face Profile](https://huggingface.co/abhinavgl)
+- 💼 [LinkedIn](https://linkedin.com/in/abhinav-goel-41a87a20b){:target="_blank"}
+- 🤗 [Hugging Face Profile](https://huggingface.co/abhinavgl){:target="_blank"}
 - 🎧 Fun fact: I code better when listening to Fleetwood Mac’s *Rumours*.  
 
 ---

@@ -52,7 +52,8 @@ An AI chatbot version of my professional profile hosted on Hugging Face Spaces
 
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](https://abhinavgo1000.github.io)  
-- 💼 [LinkedIn](https://linkedin.com/in/abhinav-goel-41a87a20b)  
+- 💼 [LinkedIn](https://linkedin.com/in/abhinav-goel-41a87a20b)
+- 🤗 [Hugging Face Profile](https://huggingface.co/abhinavgl)
 - 🎧 Fun fact: I code better when listening to Fleetwood Mac’s *Rumours*.  
 
 ---

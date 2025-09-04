@@ -58,4 +58,4 @@ An AI chatbot version of my professional profile hosted on Hugging Face Spaces
 
 ---
 
-⭐️ From [Abhinav Goel](https://github.com/abhinavgo1000)
+⭐️ From [Abhinav Goel](https://github.com/abhinavgo1000){:target="_blank"}

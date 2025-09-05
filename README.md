@@ -34,6 +34,13 @@ Interactive React portal with API-driven tables, Material UI dialogs, and Chart.
 
 ---
 
+### [📰 Hacker News iOS App](https://github.com/abhinavgo1000/Hacker-News){:target="_blank"}
+An iOS app showing the latest tech related news feed written in SwiftUI.  
+- The app consumes a public Algolia API to display the latest news feed in a navigation list format.  
+- Tapping on any NavigationLink entry opens the news article in a separate WebView screen. 
+
+---
+
 ### [🤖 AI Chatbot of my Professional Profile](https://huggingface.co/spaces/abhinavgl/career_conversation){:target="_blank"}
 An AI chatbot version of my professional profile hosted on Hugging Face Spaces
 - Uses gpt-4o-mini as the underlying LLM

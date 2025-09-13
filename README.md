@@ -15,8 +15,8 @@ I love working with **Angular, React, Node.js, and Python** - and I often explor
 
 ## 📌 Pinned Projects
 ### [💼 AI Agent Job Searcher Backend](https://github.com/abhinavgo1000/Job-Searcher-Backend){:target="_blank"}
-A backend app written in Flask that utilizes OpenAI agents SDK and serves the output in JSON format to be consumed by any front end app (SwiftUI iOS or Next.js).  
-- The job searcher agent calls the different job API endpoints (Amazon/Workday/Netflix) and serves the relevant full stack roles located in India in Structured Output format.  
+A backend app written in Flask that utilizes OpenAI agents SDK and serves the output in JSON format to be consumed by any front end app (**SwiftUI iOS** or **Next.js**).  
+- The job searcher agent calls the different job API endpoints (**Amazon/Workday/Netflix**) and serves the relevant full stack roles located in India in **Structured Output** format.  
 
 ---
 

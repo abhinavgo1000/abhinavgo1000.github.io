@@ -21,7 +21,7 @@ An iOS app written in SwiftUI that consumes the JSON **Structured Output** of th
 ---
 
 ### [💼 AI Agent Job Searcher Backend](https://github.com/abhinavgo1000/Job-Searcher-Backend){:target="_blank"}
-A backend app written in Flask that utilizes OpenAI Agents SDK and serves the output in JSON format to be consumed by any front end app (**SwiftUI iOS** or **Next.js**).  
+A backend app written in Flask that utilizes OpenAI Agents SDK and serves the output in JSON format to be consumed by any front end app ([**SwiftUI iOS**](https://github.com/abhinavgo1000/Job-Searcher){:target="_blank"} or [**Next.js**](https://github.com/abhinavgo1000/job-searcher-web-ui){:target="_blank"}).  
 - The job searcher agent calls the different job API endpoints (**Amazon/Workday/Netflix**) and serves the relevant full stack roles located in India in **Structured Output** format.  
 
 ---

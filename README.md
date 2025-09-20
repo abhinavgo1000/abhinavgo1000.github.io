@@ -15,7 +15,7 @@ I love working with **Angular, React, Node.js, and Python** - and I often explor
 
 ## 📌 Pinned Projects
 ### [📱 Job Searcher iOS App](https://github.com/abhinavgo1000/Job-Searcher){:target="_blank"}
-An iOS app written in SwiftUI that consumes the JSON **Structured Output** of the AI agent of the [Backend Application](https://github.com/abhinavgo1000/Job-Searcher-Backend){:target="_blank"}.  
+An iOS app written in SwiftUI that consumes the JSON **Structured Output** of the AI agent of the [**Backend Application**](https://github.com/abhinavgo1000/Job-Searcher-Backend){:target="_blank"}.  
 - The iOS app has filters to include Netflix in job search or not, should the output be strictly formatted or not, along with the text fields for Job Position, Location and the Workday URL, which in turn is passed over to the Backend app and trigger the AI agent to perform the relevant job searches.  
 
 ---
